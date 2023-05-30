@@ -21,7 +21,7 @@ const JobCard = ({ job }) => {
                 <span className="text-[14px] py-[1rem] block group-hover:text-whiteColor">{job.job_company_name}</span>
             </div>
             <a href={job.job_page_link} className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px] text-center font-semibold text-blackColor hover:bg-whiteColor group-hover:hover:text-blackColor group-hover:text-whiteColor'>
-                Ver mais
+                Candidatar-se
             </a>
         </div>
     )
