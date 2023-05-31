@@ -2,9 +2,9 @@ import React from 'react'
 
 const Values = () => {
     return (
-        <div className='mb-[4rem] mt-[6rem]'>
+        <div className='mb-[5.5rem] mt-[2rem]'>
             <h1 className="text-blackColor text-[25px] pt-[2rem] pb-[3rem] font-bold block text-center">Os valores que buscamos manter.</h1>
-            <div className="grid gap-4 lg:gap-40 grid-rows-3 lg:grid-cols-3 items-center">
+            <div className="grid gap-4 lg:grid-cols-3 items-center">
                 <div className="rounded-[10px] hover:bg-lightGreenColor p-[1.5rem]">
                     <div className="flex items-center gap-3">
                         <div className="p-[4px] rounded-[.8rem] bg-darkGreenColor h-[40px] w-[40px] flex items-center justify-center">
